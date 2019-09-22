@@ -1,0 +1,234 @@
+﻿  Arm.cpp
+c:\users\dohyun\desktop\프로젝트 파일\project1\gun.h(24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\gun.h(68): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\gun.h(83): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\gun.h(108): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\sword.h(16): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\sword.h(24): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\arm.cpp(55): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\arm.cpp(67): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\arm.cpp(79): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\arm.cpp(82): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\arm.cpp(85): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\arm.cpp(162): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\arm.cpp(174): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\arm.cpp(187): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\arm.cpp(189): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\arm.cpp(192): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\arm.cpp(253): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\arm.cpp(352): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\arm.cpp(386): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\arm.cpp(391): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\arm.cpp(399): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\arm.cpp(403): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\arm.cpp(413): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\arm.cpp(420): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\arm.cpp(456): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\arm.cpp(490): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\arm.cpp(498): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\arm.cpp(502): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\arm.cpp(512): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\arm.cpp(519): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  Body.cpp
+c:\users\dohyun\desktop\프로젝트 파일\project1\body.cpp(47): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\body.cpp(48): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\body.cpp(68): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\body.cpp(77): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\body.cpp(83): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\body.cpp(84): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\body.cpp(241): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\body.cpp(261): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\body.cpp(270): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\body.cpp(277): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\body.cpp(367): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\body.cpp(375): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\body.cpp(381): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\body.cpp(382): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\body.cpp(402): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\body.cpp(411): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\body.cpp(417): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\body.cpp(418): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\body.cpp(447): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\body.cpp(455): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\body.cpp(471): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\body.cpp(479): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\body.cpp(495): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\body.cpp(503): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\body.cpp(521): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\body.cpp(529): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  Bullet.cpp
+c:\users\dohyun\desktop\프로젝트 파일\project1\bullet.cpp(109): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Camera.cpp
+c:\users\dohyun\desktop\프로젝트 파일\project1\camera.cpp(35): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\camera.cpp(38): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\camera.cpp(125): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\camera.cpp(129): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\camera.cpp(171): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Head.cpp
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(31): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(36): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(47): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(52): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(67): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(72): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(79): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(80): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(84): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(100): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(105): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(110): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(111): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(113): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(121): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(124): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(125): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(133): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(140): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(143): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(144): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(152): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(160): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(166): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(167): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(172): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(197): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(198): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(219): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(224): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(235): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(240): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(254): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(258): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(271): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(273): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(281): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(284): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(285): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(293): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(300): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(303): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(304): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(312): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(320): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(326): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(327): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(332): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(357): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(358): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(379): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(384): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(395): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(400): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(414): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(418): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(431): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(433): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(441): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(444): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(445): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(453): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(460): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(463): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(464): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(472): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(480): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(486): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(492): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(517): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\head.cpp(518): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Leg.cpp
+c:\users\dohyun\desktop\프로젝트 파일\project1\leg.cpp(47): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\leg.cpp(49): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\leg.cpp(50): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\leg.cpp(55): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\leg.cpp(82): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\leg.cpp(84): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\leg.cpp(85): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\leg.cpp(90): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\leg.cpp(119): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\leg.cpp(121): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\leg.cpp(122): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\leg.cpp(127): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\leg.cpp(154): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\leg.cpp(156): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\leg.cpp(157): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\leg.cpp(162): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\leg.cpp(173): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\leg.cpp(184): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\leg.cpp(191): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\leg.cpp(192): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\leg.cpp(193): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\leg.cpp(194): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\leg.cpp(197): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\leg.cpp(199): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\leg.cpp(208): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\leg.cpp(219): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\leg.cpp(226): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\leg.cpp(227): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\leg.cpp(228): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\leg.cpp(229): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\leg.cpp(232): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\leg.cpp(234): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  LightObject.cpp
+c:\users\dohyun\desktop\프로젝트 파일\project1\lightobject.cpp(16): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+  Map.cpp
+c:\users\dohyun\desktop\프로젝트 파일\project1\map.h(47): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\map.h(19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+  Menu.cpp
+c:\users\dohyun\desktop\프로젝트 파일\project1\select_part.h(23): warning C4244: '초기화 중': 'GLfloat'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Robot.cpp
+c:\users\dohyun\desktop\프로젝트 파일\project1\robot.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\dohyun\desktop\프로젝트 파일\project1\gun.h(24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\gun.h(68): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\gun.h(83): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\gun.h(108): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\sword.h(16): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\sword.h(24): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\robot.cpp(49): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\robot.cpp(198): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Title.cpp
+c:\users\dohyun\desktop\프로젝트 파일\project1\robot.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\dohyun\desktop\프로젝트 파일\project1\gun.h(24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\gun.h(68): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\gun.h(83): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\gun.h(108): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\sword.h(16): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\sword.h(24): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  UI.cpp
+c:\users\dohyun\desktop\프로젝트 파일\project1\ui.cpp(15): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\ui.cpp(51): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\ui.cpp(133): warning C4244: '인수': 'float'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\ui.cpp(172): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Wing.cpp
+  텀프.cpp
+c:\users\dohyun\desktop\프로젝트 파일\project1\robot.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\dohyun\desktop\프로젝트 파일\project1\gun.h(24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\gun.h(68): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\gun.h(83): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\gun.h(108): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\sword.h(16): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\sword.h(24): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\map.h(47): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\map.h(19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\dohyun\desktop\프로젝트 파일\project1\select_part.h(23): warning C4244: '초기화 중': 'GLfloat'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\텀프.cpp(26): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\텀프.cpp(336): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\텀프.cpp(423): warning C4244: '인수': 'float'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\텀프.cpp(568): warning C4244: '인수': 'float'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\텀프.cpp(671): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\텀프.cpp(681): warning C4244: '인수': 'float'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Particle.cpp
+c:\users\dohyun\desktop\프로젝트 파일\project1\robot.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\dohyun\desktop\프로젝트 파일\project1\gun.h(24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\gun.h(68): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\gun.h(83): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\gun.h(108): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\sword.h(16): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\sword.h(24): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  stdafx.cpp
+  코드를 생성하고 있습니다...
+c:\users\dohyun\desktop\프로젝트 파일\project1\select_part.h(178): warning C4715: 'Select_Part::Get_Selected_Part': 모든 제어 경로에서 값을 반환하지는 않습니다.
+c:\users\dohyun\desktop\프로젝트 파일\project1\robot.cpp(152): warning C4715: 'Robot::UpdateY': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Project1.vcxproj -> C:\Users\DoHyun\Desktop\프로젝트 파일\Debug\Project1.exe

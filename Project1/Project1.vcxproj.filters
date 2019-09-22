@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\Semi">
+      <UniqueIdentifier>{c95f8000-a4f6-4062-8c13-904f0c393712}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Main">
+      <UniqueIdentifier>{14bb38a8-f359-4baa-92dd-d914bb3bc91f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Main">
+      <UniqueIdentifier>{fd0806ea-8a40-4f40-85d0-f0d8bd320457}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Semi">
+      <UniqueIdentifier>{b86b34d4-d3a8-4dd2-9561-e6b49d6000b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Basic">
+      <UniqueIdentifier>{6218c8a7-7948-4379-95a5-9e04d03b9267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Basic">
+      <UniqueIdentifier>{b7c8b4e7-e624-48f2-9cc5-e7025f0d7de9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Object">
+      <UniqueIdentifier>{e6f670ba-75bf-4a72-adaf-0e496d3b05c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Object\Part">
+      <UniqueIdentifier>{230149b3-4eaf-486e-ad80-5616b1363230}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Object">
+      <UniqueIdentifier>{ead8e52e-b48f-4e55-8dde-b8880b316917}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Object\Part">
+      <UniqueIdentifier>{f9a31fb8-469d-4d34-9e96-846be86b9e75}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="LightObject.cpp">
+      <Filter>소스 파일\Semi</Filter>
+    </ClCompile>
+    <ClCompile Include="Particle.cpp">
+      <Filter>소스 파일\Semi</Filter>
+    </ClCompile>
+    <ClCompile Include="텀프.cpp">
+      <Filter>소스 파일\Main</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>소스 파일\Basic</Filter>
+    </ClCompile>
+    <ClCompile Include="Body.cpp">
+      <Filter>소스 파일\Object\Part</Filter>
+    </ClCompile>
+    <ClCompile Include="Head.cpp">
+      <Filter>소스 파일\Object\Part</Filter>
+    </ClCompile>
+    <ClCompile Include="Leg.cpp">
+      <Filter>소스 파일\Object\Part</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu.cpp">
+      <Filter>소스 파일\Main</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.cpp">
+      <Filter>소스 파일\Basic</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>소스 파일\Main</Filter>
+    </ClCompile>
+    <ClCompile Include="Wing.cpp">
+      <Filter>소스 파일\Object\Part</Filter>
+    </ClCompile>
+    <ClCompile Include="Arm.cpp">
+      <Filter>소스 파일\Object\Part</Filter>
+    </ClCompile>
+    <ClCompile Include="Robot.cpp">
+      <Filter>소스 파일\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet.cpp">
+      <Filter>소스 파일\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="UI.cpp">
+      <Filter>소스 파일\Basic</Filter>
+    </ClCompile>
+    <ClCompile Include="Title.cpp">
+      <Filter>소스 파일\Main</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="LightObject.h">
+      <Filter>헤더 파일\Semi</Filter>
+    </ClInclude>
+    <ClInclude Include="Particle.h">
+      <Filter>헤더 파일\Semi</Filter>
+    </ClInclude>
+    <ClInclude Include="Basic.h">
+      <Filter>헤더 파일\Basic</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>헤더 파일\Basic</Filter>
+    </ClInclude>
+    <ClInclude Include="Body.h">
+      <Filter>헤더 파일\Object\Part</Filter>
+    </ClInclude>
+    <ClInclude Include="Head.h">
+      <Filter>헤더 파일\Object\Part</Filter>
+    </ClInclude>
+    <ClInclude Include="Leg.h">
+      <Filter>헤더 파일\Object\Part</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.h">
+      <Filter>헤더 파일\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더 파일\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="Select_Part.h">
+      <Filter>헤더 파일\Basic</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionBox.h">
+      <Filter>헤더 파일\Semi</Filter>
+    </ClInclude>
+    <ClInclude Include="Map.h">
+      <Filter>헤더 파일\Basic</Filter>
+    </ClInclude>
+    <ClInclude Include="Wing.h">
+      <Filter>헤더 파일\Object\Part</Filter>
+    </ClInclude>
+    <ClInclude Include="Arm.h">
+      <Filter>헤더 파일\Object\Part</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet.h">
+      <Filter>헤더 파일\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Robot.h">
+      <Filter>헤더 파일\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Enermy.h">
+      <Filter>헤더 파일\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss.h">
+      <Filter>헤더 파일\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="BossBullet.h">
+      <Filter>헤더 파일\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="UI.h">
+      <Filter>헤더 파일\Basic</Filter>
+    </ClInclude>
+    <ClInclude Include="Gun.h">
+      <Filter>헤더 파일\Object\Part</Filter>
+    </ClInclude>
+    <ClInclude Include="Sword.h">
+      <Filter>헤더 파일\Object\Part</Filter>
+    </ClInclude>
+    <ClInclude Include="Title.h">
+      <Filter>헤더 파일\Main</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
